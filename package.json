@@ -1,0 +1,17 @@
+{
+  "name": "tagging",
+  "version": "1.0.0",
+  "description": "Interview tagging",
+  "type": "module",
+  "main": "example.js",
+  "scripts": {
+    "example": "node example.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sedna-tagging-interview"
+  },
+  "author": "",
+  "license": "ISC"
+}
